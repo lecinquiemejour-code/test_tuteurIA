@@ -1,24 +1,30 @@
-## RESSOURCES PRATIQUES & EXERCICES
+## RESSOURCES PRATIQUES & ATELIER CUISINE
 
-Retrouvez ici les guides d'installation officiels du skill ainsi que des exercices pratiques pour tester vos connaissances.
-
----
-
-### Guide d'installation rapide (claude.ai)
-**[Dépôt Officiel GitHub](https://github.com/lecinquiemejour-code/mecanique-des-skills)**
-
-1. **Téléchargez** le fichier ZIP du dépôt (en cliquant sur `Code` → `Download ZIP` sur GitHub).
-2. **Ouvrez Claude** et allez dans *Customize (Personnaliser)* → *Compétences (Skills)* → *Create skill* → *Upload a skill*.
-3. **Téléversez** l'archive ZIP (ou le fichier `.skill` qui n'est qu'un ZIP renommé).
-4. **Activez** le skill en basculant l'interrupteur général sur **ON**.
-*   *Note de sécurité* : Ne téléversez que des skills provenant de sources de confiance car ils peuvent exécuter des commandes dans ton environnement.
+Retrouvez ici le mémo récapitulatif de l'atelier, les proportions clés et les astuces pour réussir votre mayonnaise à coup sûr.
 
 ---
 
-### Installation avancée (Claude Code & API)
-**[Documentation technique](https://github.com/lecinquiemejour-code/mecanique-des-skills#dans-claude-code)**
+### Mémo minute : Les proportions idéales (pour 4 personnes)
 
-*   **Claude Code** : Vous pouvez installer le skill localement avec la commande :
-    `git clone https://github.com/lecinquiemejour-code/mecanique-des-skills.git ~/.claude/skills/mecanique-des-skills`
-*   **Via l'API Claude** : En utilisant l'endpoint des skills `/v1/skills` pour charger le dossier directement.
-*   **Intérêt** : C'est le principe de portabilité des Agent Skills : *on écrit une fois, on exécute partout*.
+- **1 jaune d'œuf** (sorti 30 min avant pour être à température ambiante).
+- **20 à 25 cl d'huile neutre** (tournesol, pépins de raisin, colza désodorisé).
+- **1 cuillère à café de moutarde** (facilite la prise et donne du goût).
+- **1 cuillère à café de jus de citron ou vinaigre**.
+- **Sel fin et poivre du moulin** (au goût, en fin de préparation).
+
+---
+
+### Règle d'or en cas d'urgence (Mayonnaise tranchée)
+
+1. Prenez un **bol propre**.
+2. Déposez **1 nouveau jaune d'œuf** ou **1 cuillère à café de moutarde**.
+3. Versez votre mayonnaise ratée **goutte par goutte** tout en fouettant régulièrement.
+4. Votre sauce est récupérée à 100 % !
+
+---
+
+### Variantes rapides à tester
+
+- **Aïoli provençal** : ajoutez 3 à 4 gousses d'ail pilées avec le jaune de départ.
+- **Sauce Tartare** : incorporez 1 cuillère à soupe de câpres et de cornichons finement hachés, avec estragon et cerfeuil.
+- **Sauce Rouille** : parfumez avec une pincée de safran, une pointe de piment de Cayenne et de l'ail écrasé.
