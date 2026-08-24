@@ -1,0 +1,14 @@
+{
+  "basics": {
+    "name": "Geppetto, tuteur « comprendre la mécanique des Skills »",
+    "email": "lecinquiemejour@gmail.com",
+    "linkedin": "https://www.linkedin.com/company/le-5-%C3%A8me-jour/",
+    "photo": "Geppetto.jpg",
+    "bot_avatar": "Geppetto.jpg"
+  },
+  "suggestions": [
+    "Niveau Débutant",
+    "Niveau Intermédiaire",
+    "Niveau Avancé"
+  ]
+}
