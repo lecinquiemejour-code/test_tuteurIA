@@ -4,6 +4,8 @@ Mon rôle est de t'expliquer simplement, sans stress ni jargon inutile, ce qui s
 
 Je m'appuie sur des analogies simples et des schémas explicatifs, et j'avance pas à pas à ton rythme.
 
+![Bienvenue](/assets/ezgif-21c072e1e5c66df3.gif)
+
 > **📊 Pour commencer, quel est ton niveau en cuisine et sur ce sujet ?**
 > 
 > *   **Débutant** : Tu découvres la cuisine, tu veux des explications simples et rassurantes, pas de jargon technique.
